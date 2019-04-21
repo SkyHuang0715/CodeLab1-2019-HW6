@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1331dce5-bc79-433e-bc3e-d75fa3033845" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraDemo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1555350974117" expanded="true" signature="6:78" ph="..." />
+                <marker date="1555350974117" expanded="true" signature="81:197" ph="/* USAGE: put on your main camera ... */" />
+                <marker date="1555350974117" expanded="true" signature="237:1077" ph="{...}" />
+                <marker date="1555350974117" expanded="true" signature="309:330" ph="{...}" />
+                <marker date="1555350974117" expanded="true" signature="388:1075" ph="{...}" />
+                <marker date="1555350974117" expanded="true" signature="402:456" ph="/* simple mouse look ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraLookFollow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <marker date="1555355985703" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555355985703" expanded="true" signature="80:208" ph="/* USAGE: plug this on a object that looks at stuff(ideally, camera) ... */" />
+                <marker date="1555355985703" expanded="true" signature="255:1283" ph="{...}" />
+                <marker date="1555355985703" expanded="true" signature="365:386" ph="{...}" />
+                <marker date="1555355985703" expanded="true" signature="444:1281" ph="{...}" />
+                <marker date="1555355985703" expanded="true" signature="482:522" ph="{...}" />
+                <marker date="1555355985703" expanded="true" signature="533:701" ph="/* technique 1: use lookAt, basic idea ... */" />
+                <marker date="1555355985703" expanded="true" signature="924:1171" ph="/* change the rotation based on quaternions ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RaycastButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+              <folding>
+                <marker date="1555805930261" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555805930261" expanded="true" signature="80:214" ph="/* USAGE: put this on an object w/ collider to make it clickable ... */" />
+                <marker date="1555805930261" expanded="true" signature="258:1441" ph="{...}" />
+                <marker date="1555805930261" expanded="true" signature="335:356" ph="{...}" />
+                <marker date="1555805930261" expanded="true" signature="414:1356" ph="{...}" />
+                <marker date="1555805930261" expanded="true" signature="810:1350" ph="{...}" />
+                <marker date="1555805930261" expanded="true" signature="935:1340" ph="{...}" />
+                <marker date="1555805930261" expanded="true" signature="966:1070" ph="/* STEP 5: do something with the raycast ... */" />
+                <marker date="1555805930261" expanded="true" signature="1380:1439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Trigger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <marker date="1555809654975" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555809654975" expanded="true" signature="116:856" ph="{...}" />
+                <marker date="1555809654975" expanded="true" signature="218:293" ph="{...}" />
+                <marker date="1555809654975" expanded="true" signature="351:372" ph="{...}" />
+                <marker date="1555809654975" expanded="true" signature="417:854" ph="{...}" />
+                <marker date="1555809654975" expanded="true" signature="560:846" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/camerafollow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+              <folding>
+                <marker date="1555804927488" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555804927488" expanded="true" signature="121:2599" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="873:1058" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="1080:2397" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="1170:1231" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="1261:1322" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="1545:1826" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="1649:1816" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="1918:2010" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="2023:2068" ph="{...}" />
+                <marker date="1555804927488" expanded="true" signature="2461:2597" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThridPersonController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+              <folding>
+                <marker date="1555804625938" expanded="true" signature="6:78" ph="..." />
+                <marker date="1555804625938" expanded="true" signature="130:1703" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="298:464" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="484:1690" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="614:1612" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="675:881" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="928:1094" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="1141:1307" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="1354:1519" ph="{...}" />
+                <marker date="1555804625938" expanded="true" signature="1629:1682" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/camerafollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraDemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThridPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraLookFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RaycastButton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraLookFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/unity-chan!/Unity-chan! Model/Scripts/AutoBlink.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/cameracharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThridPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/camerafollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RaycastButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-59" />
+    <option name="y" value="69" />
+    <option name="width" value="1440" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../studio2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1331dce5-bc79-433e-bc3e-d75fa3033845" name="Default Changelist" comment="" />
+      <created>1555349382252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555349382252</updated>
+      <workItem from="1555349386141" duration="6474000" />
+      <workItem from="1555744249496" duration="1228000" />
+      <workItem from="1555802195513" duration="5429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13131000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-59" y="69" width="1440" height="772" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25724638" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32971016" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" weight="0.32971016" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1555350974117" expanded="true" signature="6:78" ph="..." />
+            <marker date="1555350974117" expanded="true" signature="81:197" ph="/* USAGE: put on your main camera ... */" />
+            <marker date="1555350974117" expanded="true" signature="237:1077" ph="{...}" />
+            <marker date="1555350974117" expanded="true" signature="309:330" ph="{...}" />
+            <marker date="1555350974117" expanded="true" signature="388:1075" ph="{...}" />
+            <marker date="1555350974117" expanded="true" signature="402:456" ph="/* simple mouse look ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/unity-chan!/Unity-chan! Model/Scripts/UnityChanControlScriptWithRgidBody.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2055" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/camera&amp;character.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/cameracharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/unity-chan!/Unity-chan! Model/Scripts/AutoBlink.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThridPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding>
+            <marker date="1555804625938" expanded="true" signature="6:78" ph="..." />
+            <marker date="1555804625938" expanded="true" signature="130:1703" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="298:464" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="484:1690" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="614:1612" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="675:881" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="928:1094" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="1141:1307" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="1354:1519" ph="{...}" />
+            <marker date="1555804625938" expanded="true" signature="1629:1682" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraLookFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <marker date="1555355985703" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555355985703" expanded="true" signature="80:208" ph="/* USAGE: plug this on a object that looks at stuff(ideally, camera) ... */" />
+            <marker date="1555355985703" expanded="true" signature="255:1283" ph="{...}" />
+            <marker date="1555355985703" expanded="true" signature="365:386" ph="{...}" />
+            <marker date="1555355985703" expanded="true" signature="444:1281" ph="{...}" />
+            <marker date="1555355985703" expanded="true" signature="482:522" ph="{...}" />
+            <marker date="1555355985703" expanded="true" signature="533:701" ph="/* technique 1: use lookAt, basic idea ... */" />
+            <marker date="1555355985703" expanded="true" signature="924:1171" ph="/* change the rotation based on quaternions ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/camerafollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <marker date="1555804927488" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555804927488" expanded="true" signature="121:2599" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="873:1058" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="1080:2397" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="1170:1231" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="1261:1322" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="1545:1826" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="1649:1816" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="1918:2010" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="2023:2068" ph="{...}" />
+            <marker date="1555804927488" expanded="true" signature="2461:2597" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RaycastButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+          <folding>
+            <marker date="1555805930261" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555805930261" expanded="true" signature="80:214" ph="/* USAGE: put this on an object w/ collider to make it clickable ... */" />
+            <marker date="1555805930261" expanded="true" signature="258:1441" ph="{...}" />
+            <marker date="1555805930261" expanded="true" signature="335:356" ph="{...}" />
+            <marker date="1555805930261" expanded="true" signature="414:1356" ph="{...}" />
+            <marker date="1555805930261" expanded="true" signature="810:1350" ph="{...}" />
+            <marker date="1555805930261" expanded="true" signature="935:1340" ph="{...}" />
+            <marker date="1555805930261" expanded="true" signature="966:1070" ph="/* STEP 5: do something with the raycast ... */" />
+            <marker date="1555805930261" expanded="true" signature="1380:1439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Trigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <marker date="1555809654975" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555809654975" expanded="true" signature="116:856" ph="{...}" />
+            <marker date="1555809654975" expanded="true" signature="218:293" ph="{...}" />
+            <marker date="1555809654975" expanded="true" signature="351:372" ph="{...}" />
+            <marker date="1555809654975" expanded="true" signature="417:854" ph="{...}" />
+            <marker date="1555809654975" expanded="true" signature="560:846" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
